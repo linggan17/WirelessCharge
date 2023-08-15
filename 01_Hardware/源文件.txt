@@ -1,0 +1,1 @@
+PCB是使用立创EDA绘制的，开源链接：https://oshwhub.com/linggan/ip6829_2023
